@@ -1,18 +1,16 @@
 export const products = [
   {
-    id: 'box-of-cookies',
-    name: 'Box',
-    description: 'A delicious box of handmade cookies',
-    unitName: 'box', // shows after the price, eg. 0.05 SOL/box
-    priceSol: 0.05,
-    priceUsd: 5,
+    id: 'Small',
+    name: 'Small Boba Boss Kit',
+    description: 'A Boba Boss DIY Boba Kit with a Random Variety of 5 Our Top Boba Flavors, DIY Boba Boss Tools; Serves Up to 5 People',
+    unitName: 'Boba Boss Bundle', // shows after the price, eg. 0.245 SOL/box
+    priceUsd: 15,
   },
   {
-    id: 'basket-of-cookies',
-    name: 'Basket',
-    description: 'A large basket of handmade cookies',
-    unitName: 'basket',
-    priceSol: 0.1,
-    priceUsd: 10,
+    id: 'Medium',
+    name: 'Medium Boba Boss Kit',
+    description: 'A Boba Boss DIY Boba Kit with a Random Variety of 10 Our Top Boba Flavors, DIY Boba Boss Tools, Plus Reusable Metal Straw Kit ; Serves Up to 10 People',
+    unitName: 'Boba Boss Bundle',
+    priceUsd: 25,
   }
 ]
