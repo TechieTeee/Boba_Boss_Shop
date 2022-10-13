@@ -1,6 +1,6 @@
 # Boba Boss Shop
 
-![Boba_Animated_Image](https://user-images.githubusercontent.com/100870737/195485375-b2f64fc4-9013-4d3d-93e9-b009a75478bc.png)
+![Boba_Boss](https://user-images.githubusercontent.com/100870737/195485589-150f002c-a3c6-46f0-8c9b-ae23e7874dc7.png)
 
 
 * Fictional Online Store for On-Demand Boba Tea DIY Kits Shipped to Customers
