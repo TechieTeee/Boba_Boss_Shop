@@ -4,5 +4,5 @@
 
 
 * Fictional Online Store for On-Demand Boba Tea DIY Kits Shipped to Customers
-* Accepts Solana and USDC for Payment
+* Accepts Solana and USDC for Payment (compatible with other coins on Phantom as well)
 * Deployed on Solana and w/ CI/CD to Vercel
